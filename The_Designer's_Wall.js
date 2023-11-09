@@ -11,4 +11,4 @@ setTimeout(function () {
 setTimeout(function () {
     alert("This Site is made for Desktop screen only, for better experience please open in Desktop Mode");
 
-}, 1000);
+}, 1000):
