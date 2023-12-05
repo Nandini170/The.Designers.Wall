@@ -114,38 +114,38 @@ body {
 }
 
 .img-box:nth-child(2) {
-    background: url("C:/HTML/dresses/winedress100.jpg");
+    background: url("images/winedress100.jpg");
     background-size: cover;
     background-position: center;
 
 }
 
 .img-box:nth-child(3) {
-    background: url("C:/HTML/dresses/jacket100.jpg");
+    background: url("images/jacket100.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(5) {
-    background: url("C:/HTML/dresses/reddress1.jpg");
+    background: url("images/reddress1.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(4) {
-    background: url("C:/HTML/dresses/orangedress100.jpg");
+    background: url("images/orangedress100.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(6) {
-    background: url("C:/HTML/dresses/minired.jpg");
+    background: url("images/minired.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(7) {
-    background: url("C:/HTML/dresses/darkpink.jpg");
+    background: url("images/darkpink.jpg");
     background-size: cover;
     background-position: center;
 }
